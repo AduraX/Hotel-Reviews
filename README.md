@@ -10,4 +10,4 @@ This is an attempt to use text analytics and sentiment analysis to analyse Austr
 
 **Part 2:** Exploratory Data Analysis (EDA) the reviews
 
-**Part 3:** Reviews Analayis and Prediction
+**Part 3:** Review Analysis and Prediction
