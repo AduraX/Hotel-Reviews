@@ -8,6 +8,6 @@ This is an attempt to use text analytics and sentiment analysis to analyse Austr
 
 **Part 1:** Web scraping from TripAdvisor using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 
-**Part 2:** Exploratory Data Analysis (EDA) the reviews
+**Part 2:** Exploratory Data Analysis (EDA) of the reviews
 
 **Part 3:** Review Analysis and Prediction
